@@ -5,7 +5,6 @@ My first Flutter app
 <p float="left">
   <img src="./demo/light.jpeg" width="200" />
   <img src="./demo/dark.jpeg" width="200" /> 
-  <img src="/img3.png" width="100" />
 </p>
 
 ## About the app
