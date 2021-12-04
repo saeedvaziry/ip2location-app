@@ -13,7 +13,7 @@ IP2Location is a simple mobile application for getting information about your de
 
 ## Under the hood
 
-This application is using a free IP API (freeipapi.com) for gathering informations about the IPs.
+This application is using a free IP API [freeipapi.com](https://freeipapi.com) for gathering informations about the IPs.
 
 ## Architecture
 
